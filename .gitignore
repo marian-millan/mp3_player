@@ -1,0 +1,33 @@
+# Operating system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arduino build output
+build/
+out/
+*.elf
+*.hex
+*.map
+
+# KiCad local state, backups, and lock files
+*-backups/
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_sym-bak
+*.kicad_mod-bak
+*.kicad_wks-bak
+fp-info-cache
+~*.lck
